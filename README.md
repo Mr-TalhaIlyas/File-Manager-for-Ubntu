@@ -4,6 +4,8 @@ This repo includes steps for installing a file manager/explorer for ubntu
 
 I will install [SapceFM](https://github.com/IgnorantGuru/spacefm).
 
+![alt text](https://github.com/Mr-TalhaIlyas/File-Manager-for-Ubntu/blob/main/img.png)
+
 The detailed instructions are give in their homepage, but I encountered seme issues while configuring it so I'll write down steps here for future use.
 # Step 1.
 ------
