@@ -1,3 +1,5 @@
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)  [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/) 
+
 # File-Manager-for-Ubntu
 
 This repo includes steps for installing a file manager/explorer for ubntu
